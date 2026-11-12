@@ -41,3 +41,11 @@ the presence of SQL injection.
 
 Basic web reconnaissance was performed using Burp Suite.
 Six distinct URLs were identified and documented.
+
+### 7. Methodology
+
+1. Launched a PortSwigger Web Security Academy lab.
+2. Configured Burp Suite browser for HTTP traffic capture.
+3. Browsed the application and inspected the Site Map.
+4. Recorded six distinct URLs and identified the category parameter.
+5. Saved the Site Map screenshot for documentation.
