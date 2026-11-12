@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brew & Bean Cafe - Web Reconnaissance
 
 ## Project Overview
@@ -17,3 +18,4 @@ lab using Burp Suite Professional.
 - Burp Suite Professional
 - PortSwigger Web Security Academy
 - Kali Linux
+
